@@ -1,0 +1,6 @@
+fr\durga\ecommerce\EcommerceApplication.class
+fr\durga\ecommerce\model\Category.class
+fr\durga\ecommerce\repository\CategoryRepository.class
+fr\durga\ecommerce\common\ApiResponse.class
+fr\durga\ecommerce\controller\CategoryController.class
+fr\durga\ecommerce\service\CategoryService.class

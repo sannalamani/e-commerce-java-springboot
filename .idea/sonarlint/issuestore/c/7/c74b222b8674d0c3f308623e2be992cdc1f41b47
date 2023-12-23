@@ -1,0 +1,11 @@
+
+m	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú·•ö8Æ´Ã˜Á1
+r	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Û×øüÿÿÿÿ8ê„Ç˜Á1
+w	java:S116"VRename this field "category_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¬£ßıÿÿÿÿ8Âğ˜Á1
+o	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒàÖŞùÿÿÿÿ8×´Ã˜Á1
+j	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú·•ö8Ù´Ã˜Á1
+X	java:S125A"<This block of commented-out lines of code should be removed.(é¤©“8İ´Ã˜Á1
+P
+java:S1128"3Remove this unused import 'jakarta.persistence.Id'.(š¨ô 8´Ğñ˜Á1
+H
+java:S1068"&Remove this unused "id" private field.(â¼°Ñûÿÿÿÿ8ÀØÈ˜Á1
