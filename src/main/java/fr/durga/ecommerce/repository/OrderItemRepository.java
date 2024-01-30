@@ -1,0 +1,7 @@
+package fr.durga.ecommerce.repository;
+
+import fr.durga.ecommerce.model.OrderItem;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface OrderItemRepository extends JpaRepository<OrderItem,Integer> {
+}
